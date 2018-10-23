@@ -5,7 +5,10 @@
 /* BASIC */
 
 html {
-    background-color: #56baed;
+    background: linear-gradient(110deg, #00A572 60%, #98FB98 60%);
+    background: -webkit-linear-gradient(110deg, ##00A572 60%, #98FB98 60%);
+    background: -o-linear-gradient(110deg, #00A572 60%, #98FB98 60%);
+    background: -moz-linear-gradient(110deg, #00A572 60%, #98FB98 60%);
 }
 
 body {
